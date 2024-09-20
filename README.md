@@ -14,3 +14,8 @@
 - \+ Plus or addition symbol
 
 # Links
+[W3 Schools](https://www.w3schools.com/)
+
+[Free Code Camp](https://www.freecodecamp.org/)
+
+[Ratatype](https://www.ratatype.com/)
