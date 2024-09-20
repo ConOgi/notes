@@ -21,5 +21,4 @@
 [Ratatype](https://www.ratatype.com/)
 
 # Experiments
-
-🪗 🇨🇦 😷 🌟 :neckbeard: 
+🪗 🇨🇦 😷 🌟 👾
