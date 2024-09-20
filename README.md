@@ -19,3 +19,7 @@
 [Free Code Camp](https://www.freecodecamp.org/)
 
 [Ratatype](https://www.ratatype.com/)
+
+#Experiments
+
+🪗 🇨🇦 😷 🌟 :neckbeard: 
