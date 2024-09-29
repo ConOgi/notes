@@ -22,3 +22,14 @@
 
 # Experiments
 🪗 🇨🇦 😷 🌟 👾
+
+## Keyboard shortcuts
+Shortcuts I frequerntly use:
+- Ctrl-Alt-T (open terminal in linux)
+- Ctrl-S (save)
+- Ctrl-C (copy)
+
+Shortcuts I would like to start using:
+- Ctrl-Backspace (delete word to the left of cursor)
+- Ctrl-Enter (adds www. and .com to an URL)
+- Ctrl-T (opens new tab in browser)
